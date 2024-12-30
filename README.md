@@ -1,6 +1,6 @@
-# hyperdefivault
+# Airdrop ASC Simple Page
 
-This template should help get you started developing with Vue 3 in Vite.
+This page should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
 
