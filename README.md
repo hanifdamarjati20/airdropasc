@@ -8,10 +8,6 @@ This page should help get you started developing with Vue 3 in Vite.
 
 Visit the [Live View](https://asc_arlink.arweave.net/) to see the app in action.
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
 ## Project Setup
 
 ```sh
