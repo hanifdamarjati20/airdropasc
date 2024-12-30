@@ -26,4 +26,5 @@ npm run dev
 npm run build
 ```
 ### Credit
+
 This project was inspired by [HyperDeFiVault](https://protocol.land/#/repository/89a647b1-6404-4b41-8b36-87025a4599c4) 
